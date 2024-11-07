@@ -17,7 +17,7 @@ Textfield3.setText (" mamamo");
 jtextfield.setText("");
 TextField2.setText ("");
 TextField4.setText ("");
-j.Button.setForeground(Color.white);
+jButton.setForeground(Color.white);
 
 int num1 = Integer.parseInt(txt1.getText());
 int num2 = Integer.parseInt(txt1.getText());
@@ -25,3 +25,4 @@ int num2 = Integer.parseInt(txt1.getText());
 int mul = num1 * num2;
 
 lb2.setText("product is: "+mul);
+
