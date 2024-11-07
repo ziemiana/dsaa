@@ -1,0 +1,27 @@
+TODO add your handling code here:
+jTextField2.setText (" cuteaq");
+jTextField3.setText ("");
+jTextField4.setText ("");
+jTextfield.setText ("");
+jButton2.setForeground (Color.PURPLE) ;
+}
+// TODO add your handling code here:
+jTextField4.setText (" cuteaq ");
+jtextfield.setText ("");
+jTextField2.setText("");
+jTextField3.setText ("");
+jButton4.setForeground (Color.pink);
+}
+TODO add your handling code here:
+Textfield3.setText (" mamamo");
+jtextfield.setText("");
+TextField2.setText ("");
+TextField4.setText ("");
+j.Button.setForeground(Color.white);
+
+int num1 = Integer.parseInt(txt1.getText());
+int num2 = Integer.parseInt(txt1.getText());
+
+int mul = num1 * num2;
+
+lb2.setText("product is: "+mul);
