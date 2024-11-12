@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@700&display=swap');
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Sono', sans-serif;
+    background-color: #FCFAEE; 
+}
+.container {
+    text-align: center;
+    background-color: #ECDFCC; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+}
+h2 {
+    color: #A5B68D; 
+    margin-bottom: 20px;
+}
+input[type="text"],
+input[type="password"] {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #A5B68D; 
+    border-radius: 5px;
+    background-color: #FCFAEE; 
+    font-size: 14px;
+    color: #526E48; 
+    font-family: 'Sono', sans-serif;
+}
+input[type="submit"] {
+    padding: 10px;
+    background-color: #DA8359;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-family: 'Sono', sans-serif;
+}
+input[type="submit"]:hover {
+    background-color: #A5B68D; 
+}
